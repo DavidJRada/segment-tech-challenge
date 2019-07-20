@@ -1,6 +1,6 @@
 const trackClick = () => {
     mixpanel.track({
-            "userId": "user3",
+            "userId": "user1",
             "event": "Product Viewed",
             "properties": {
                 "product_id": "pr_507f1f77bcf86cd799439011",
