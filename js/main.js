@@ -14,5 +14,4 @@ const trackClick = () => {
             }
         }
     );
-    console.log('hi')
 }
