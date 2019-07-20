@@ -1,0 +1,18 @@
+const trackClick = () => {
+    mixpanel.track({
+            "userId": "user3",
+            "event": "Product Viewed",
+            "properties": {
+                "product_id": "pr_507f1f77bcf86cd799439011",
+                "sku": "G-32",
+                "category": "Games",
+                "name": "Monopoly: 3rd Edition",
+                "brand": "Hasbro",
+                "variant": "200 pieces",
+                "price": 18.99,
+                "quantity": 1
+            }
+        }
+    );
+    console.log('hi')
+}
