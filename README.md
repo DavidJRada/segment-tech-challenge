@@ -1,5 +1,3 @@
-#Explanation
-
 Good afternoon Rachel,
 
 In order to integrate Mixpanel on a site, you will need to follow these steps.
