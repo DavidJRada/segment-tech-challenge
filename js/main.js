@@ -15,9 +15,3 @@ const trackClick = () => {
         }
     );
 }
-
-const trackSegment = () => {
-    analytics.track('Signed Up', {
-        plan: 'Enterprise'
-      });
-}
